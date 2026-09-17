@@ -1,0 +1,4 @@
+interface:
+  display_name: "COMSOL Battery Model Automation"
+  short_description: "Diagnose and validate COMSOL battery models safely"
+  default_prompt: "Use $comsol-battery-model-automation to diagnose this COMSOL battery model with the smallest verified workflow."

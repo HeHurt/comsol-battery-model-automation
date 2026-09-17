@@ -3,6 +3,16 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Local COMSOL/session artifacts
+.sim/
+*.mph
+*.mph.recovery
+*.class
+*.log
+cycle_result.json
+debug_history.json
+metrics.csv
+
 # C extensions
 *.so
 
